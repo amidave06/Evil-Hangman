@@ -1,16 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, Ami Dave, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Ami Dave
- *  email address: amidave@utexas.edu
- *  UTEID: ad56333
- *  Section 5 digit ID: 50205
- *  Grader name: Devon
- *  Number of slip days used on this assignment: 1
- */
-
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.ArrayList;
